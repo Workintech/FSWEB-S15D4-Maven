@@ -32,8 +32,4 @@ public class WorkintechList<T> extends ArrayList<T> {
             }
         });
     }
-
-    public void sortMixed() {
-        sort();
-    }
 }
